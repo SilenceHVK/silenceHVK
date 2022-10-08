@@ -4,12 +4,6 @@
     <img src="https://s1.ax1x.com/2020/10/09/0rnzJH.gif" width="60" height="60"/>
 </a>
 
-<a href="https://blog.hvkcoder.me/love">
-    <p align="center">
-        <img src="https://count.getloli.com/get/@SilenceHVK?theme=gelbooru" alt="H_VK Counter" />
-    </p>
-</a>
-
 <!-- thropy -->
 <a href="https://blog.hvkcoder.me/love">
     <p align="center">
